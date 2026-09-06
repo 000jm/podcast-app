@@ -1,0 +1,27 @@
+[
+    {
+        "podcastName": "FlowCast",
+        "episode": "João-Miguel",
+        "videoId": "I65HSZ6a",
+        "categories": [
+            "esporte",
+            "bodybuilder"
+        ]
+    },
+    {
+        "podcastName": "FlowCast",
+        "episode": "Joãozinho",
+        "videoId": "35fBeAnb",
+        "categories": [
+            "futebol"
+        ]
+    },
+    {
+        "podcastName": "RonaldoCast",
+        "episode": "Roberto Augusto",
+        "videoId": "442yhf0",
+        "categories": [
+            "humor"
+        ]
+    }
+]
